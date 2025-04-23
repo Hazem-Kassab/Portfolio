@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/241e9021-6fda-47f1-819c-ff82fb13c68f)![image](https://github.com/user-attachments/assets/6c9087c3-9822-488f-bfa3-18b986c57eeb)# 🏗️ Portfolio – Hazem Kassab
-
 This repository showcases a selection of structural designs I have worked on for major industrial projects. Each structure adheres to international standards and client-specific requirements.
 
 ---
